@@ -1,5 +1,4 @@
 :root {
-  --app-blur: 6px;
   --app-margin: 24px;
   --app-radius: 10px;
   --main-rgb: 0,0,0;
@@ -57,7 +56,6 @@
   --switch-slider-color: hsla(218,4.6%,46.9%,0.85);
   --switch-knob-color: hsl(0,0%,13%);
   --popout-color: rgba(0,0,0,0.55);
-  --popout-blur: 8px;
   --popout-header-opacity: 0.3;
   --popout-header-shadow: 0px 3px 9px 0px rgba(0,0,0,0.25);
   --popout-radius: var(--app-radius);
